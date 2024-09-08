@@ -1,0 +1,20 @@
+Data: 2024-09-08 18:08
+Nome: s
+Pontuação final: 1/1
+
+Lixeira Papel:
+  Acertos: 0/0
+
+Lixeira Plástico:
+  Acertos: 0/0
+
+Lixeira Vidro:
+  Acertos: 1/1
+    - Copo quebrado: Correto
+
+Lixeira Metal:
+  Acertos: 0/0
+
+Lixeira Orgânico:
+  Acertos: 0/0
+
